@@ -1,4 +1,4 @@
-This is the home of Pitside - A management system for the FIRST Robotics Competition
+# This is the home of Pitside - A management system for the FIRST Robotics Competition
 
 ## Backend
 The backend is what interacts with the database
